@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ia7052476-dotcom.github.io/vinylbro70/sitemap.xml
